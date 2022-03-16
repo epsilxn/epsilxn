@@ -1,9 +1,15 @@
 ### Профиль
 
 ### Мой стек
-[](https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)
-
-### Языки, которые были использованы для различных проектов
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=#009688)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=FastAPI&logoColor=#092E20)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB)
+![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=#000000)
+![Material UI](https://img.shields.io/badge/MaterialUI-000000?style=for-the-badge&logo=MUI&logoColor=#007FFF)
+---
+### Языки, которые были использованы для различных проектов мною и моей командой
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resistanceJkee&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Моя статистика
