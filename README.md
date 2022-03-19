@@ -19,12 +19,26 @@
 ### Моя статистика
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=resistanceJkee&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ---
-### Wakatime статистика
+### Код-тайм статистика (updated at cron 30 18 * * *)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 ---
 ### Github achievments
 [![trophy](https://github-profile-trophy.vercel.app/?username=resistanceJkee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
+### Связаться со мной
+* Gmail
+```
+maximkostenko123@gmail.com
+```
+* Discord
+```
+rst#8734
+```
+* VK
+```
+https://vk.com/resistancejkee
+```
 ---
 ### Если кодить, то только под музыку!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d7hgrj7g0edocxa83d0i3pje8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
