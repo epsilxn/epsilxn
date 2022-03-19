@@ -28,5 +28,3 @@
 ---
 ### Если кодить, то только под музыку!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d7hgrj7g0edocxa83d0i3pje8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
-![Recent Tracks](https://spotify-recently-played-readme.vercel.app/api?user=d7hgrj7g0edocxa83d0i3pje8&count=10)
