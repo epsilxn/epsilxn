@@ -19,9 +19,8 @@
 ### Моя статистика
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=resistanceJkee&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ---
-### Код-тайм статистика (updated at cron 30 18 * * *)
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### Код-тайм статистика (начиная с 16 марта 2022)
+[![wakatime](https://wakatime.com/badge/user/b04cf7d8-e573-4087-bbe4-7b783f54e44b.svg)](https://wakatime.com/@b04cf7d8-e573-4087-bbe4-7b783f54e44b)
 ---
 ### Github achievments
 [![trophy](https://github-profile-trophy.vercel.app/?username=resistanceJkee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
