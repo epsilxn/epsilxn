@@ -19,6 +19,10 @@
 ### Моя статистика
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=resistanceJkee&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ---
+### Wakatime статистика
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 ### Github achievments
 [![trophy](https://github-profile-trophy.vercel.app/?username=resistanceJkee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
