@@ -35,10 +35,7 @@ maximkostenko123@gmail.com
 ```
 rst#8734
 ```
-* VK
-```
-https://vk.com/resistancejkee
-```
+* [VK](https://vk.com/resistancejkee)
 ---
 ### Если кодить, то только под музыку!
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d7hgrj7g0edocxa83d0i3pje8&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
