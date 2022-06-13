@@ -4,6 +4,7 @@ Profile
 **Front-end**
 * ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript)
 * ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
+* ![Angular, NgRx, RxJS](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=Angular&logoColor=#FF0000)
 * ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB)
 * ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=#764ABC)
 * ![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=#000000)
@@ -16,9 +17,6 @@ Profile
 
 **Базы данных**
 * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)
-
-**Автоматизация**
-* ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=Docker&logoColor=#2496ED)
 ---
 ### Языки, которые были использованы для различных проектов мною и моей командой
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resistanceJkee&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
