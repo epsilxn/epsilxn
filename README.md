@@ -19,10 +19,10 @@ Profile
 * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)
 ---
 ### Языки, которые были использованы для различных проектов мною и моей командой
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resistanceJkee&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arklightx&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Моя статистика
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=resistanceJkee&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=arklightx&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Github achievments
-[![trophy](https://github-profile-trophy.vercel.app/?username=resistanceJkee&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arklightx&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
