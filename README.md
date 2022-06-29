@@ -1,23 +1,19 @@
-Profile
+"Нажиматель на клавиши"
 ---
 ### Мой стек
 >"Твоё слово, пупсик, и я буду писать на чём угодно"
 
-![Image alt](https://github.com/arklightx/arklightx/raw/main/image.png)
+![Image alt](https://github.com/arklightx/arklightx/raw/main/kot-v-sapogah.png)
 
 **Front-end**
-* ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript)
-* ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
-* ![Angular, NgRx, RxJS](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=Angular&logoColor=#FF0000)
 * ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB)
 * ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=Redux&logoColor=#764ABC)
 * ![Next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=Next.js&logoColor=#000000)
 * ![Material UI](https://img.shields.io/badge/MaterialUI-000000?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 
 **Back-end**
-* ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB)
-* ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=#009688)
-* ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=FastAPI&logoColor=#092E20)
+* ![CSharp](https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=CSharp)
+* ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django)
 
 **Базы данных**
 * ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=PostgreSQL&logoColor=#4169E1)
