@@ -1,6 +1,10 @@
 Profile
 ---
 ### Мой стек
+>"Твоё слово, пупсик, и я буду писать на чём угодно"
+
+![Image alt](https://github.com/arklightx/arklightx/raw/main/image.png)
+
 **Front-end**
 * ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=TypeScript)
 * ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
